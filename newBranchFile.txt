@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-https://github.com/jfouts2010/VectronaPre
+<<
+
 =======
->>>>>>> 48897ad25519803ca0714e96f51219f332ee4fe0
+>>>>>
 
