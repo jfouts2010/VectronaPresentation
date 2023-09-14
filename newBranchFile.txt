@@ -1,7 +1,1 @@
-
-<<<<<<< HEAD
-new line after merge test lol
-
-another new feature!
-=======
->>>>>>> 1e4ad12df6134a8b9cb511cfc5262c19cb83306a
+https://github.com/jfouts2010/VectronaPresentation.git
