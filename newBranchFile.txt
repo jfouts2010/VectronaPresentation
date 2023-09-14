@@ -1,5 +1,5 @@
 a new branch file
 
-new line after merge
+new line after merge LOL
 
 another new feature! LOL
