@@ -1,3 +1,5 @@
 I'm adding this file in my first commit
 
 Adding a new line in my second commit
+
+adding a new line while working on another branch
