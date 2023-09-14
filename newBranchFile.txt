@@ -1,1 +1,3 @@
 a new branch file
+
+new line after merge
