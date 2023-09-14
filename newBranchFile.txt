@@ -1,5 +1,5 @@
 a new branch file
 
-new line after merge test
+new line after merge test lol
 
 another new feature!
